@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Recycleview</string>
+    <string-array name="programming_languages">
+        <item>Asus</item>
+        <item>Acer</item>
+        <item>HP</item>
+        <item>DELL</item>
+        <item>Lennovo</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>Ini Produk Asus</item>
+        <item>Ini Produk Acer</item>
+        <item>Ini Produk HP</item>
+        <item>Ini Produk DELL</item>
+        <item>Ini Produk Lennovo</item>
+    </string-array>
+</resources>
